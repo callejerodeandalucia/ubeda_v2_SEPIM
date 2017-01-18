@@ -1,11 +1,45 @@
 Título (30)
 ===========
 
+GUÍA OFICIAL DE ÚBEDA
+
 Descripción breve (80)
 ======================
 
+Guía con información de interés de Úbeda, declarada Patrimonio Mundial - UNESCO
+
 Descripción completa (4000)
 ===========================
+
+
+Con la Aplicación “Guía Oficial de Úbeda”, llevarás Úbeda en Tú Bolsillo!
+
+Es una aplicación desarrollada por el Ayuntamiento de Úbeda y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración.
+
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Úbeda desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (turista o visitante) que se acerque a esta bella ciudad.
+
+Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil, consultar las paradas de Taxis más cercanas, localizar y llamar a los teléfonos de urgencias y emergencias, centros de salud, hoteles, restaurantes, colegios, guarderías, supermercados, organismos públicos, bancos, localizar cajeros automáticos, asociaciones, farmacias, así como conocer sus fiestas y costumbres, ocio, cultura, artesanía, monumentos y demás lugares de interés.
+
+Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, guiará hasta el lugar solicitado e incluso ofrece la posibilidad de realizar llamadas o enviar correos electrónicos para contactar, así como visitar sus sitios web o redes sociales. Para poder identificar mejor la ubicación la aplicación ofrece una imagen de la fachada donde está ubicado el lugar de la búsqueda a la vez que ofrece una breve descripción informativa (ej: horarios y otros datos de interés).
+
+La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
+
+La Ciudad de Úbeda está ubicada en el centro geográfico de la Provincia de Jaén, en la Comarca de “La Loma de Úbeda”, es indiscutiblemente el centro comercial, cultural y de servicios de un gran territorio que abarca todo el arco oriental de la provincia de Jaén. Es núcleo de comunicaciones que enlaza Levante y Murcia con la Alta Andalucía y ésta con el valle del Guadalquivir. Puerta de entrada y salida de los parques naturales de Cazorla, Segura y las Villas y Sierra Mágina.
+
+Úbeda se encuentra bien comunicada por carretera (A-301, A-316, N-322, A-32 que nos une con la A-4) y ferrocarril (a menos de 20 minutos de las estaciones de Linares-Baeza y Jódar-Úbeda) con el conjunto del territorio nacional. Conectada por autovía a Jaén por medio de la A-316 y a la A-4 a través de la A-32 que une Bailén con Linares. También con sus líneas regulares de autobuses se comunica diariamente con los municipios de la provincia y con las grandes capitales andaluzas y españolas.
+
+Úbeda, considerada como uno de los más sensacionales conjuntos renacentistas de Europa, se nos ofrece erguida de palacios y torres para invitarnos a la esplendidez exquisita de un pasado culto y cortesano. Úbeda es una ciudad admirable, incapaz de dejar impasible al más frío y exigente de sus visitantes.
+
+Es asombroso el conjunto de palacios que reflejan poder y riqueza de una burguesía y nobleza ubetense que contaron con los más afamados arquitectos para la construcción de sus residencias.
+
+Aunque atípica por su fisionomía tan cercana a las ciudades renacentistas italianas, no se crea que, por ello, Úbeda deja de sentirse profunda e íntimamente andaluza. Sus arraigadas fiestas, sus artesanías milenarias, su sabia gastronomía o la idiosincrasia de sus gentes confirman un andalucismo al que jamás renunció y que en otro tiempo fue fronteriza, y cuyo prolongado pasado árabe, se preside y se influye en muchos de los rincones de su geografía urbana.
+
+Úbeda con un perfil de personalidad propio y diferenciador, la Semana Santa, adquiere una especial grandiosidad y emotividad extraordinaria. Los desfiles procesionales de las cofradías existentes, algunas de las cuales se remontan a los siglos XVI y XVII, revisten una incomparable solemnidad y brillantez dentro de un marco monumental único.
+
+¡ Y te vas a perder todo esto… !
+
+Visita Úbeda, la joya del Renacimiento Andaluz.
+
 
 Etiquetas	
 ===========
@@ -22,3 +56,5 @@ Sitio web
 Correo electrónico
 ==================
 
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
